@@ -4,7 +4,7 @@
 - 🌱 I’m learning **React.js, Node.js, and AI projects**  
 - 👯 I’m open to **collaborate on web and AI projects**  
 - 💬 Ask me about **Web Development or AI basics**  
-- 📫 Reach me at **uzairkhan.dev@gmail.com**  
+- 📫 Reach me at **uzairlohani.dev@gmail.com**  
 - ⚡ Fun fact: **I enjoy turning ideas into real projects**
 
   # 💫 About Me:
