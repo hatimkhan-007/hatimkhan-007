@@ -1,4 +1,5 @@
 <!-- Replace every YOUR_USERNAME / YOUR_* placeholder before publishing -->
+<!-- IMPORTANT: YOUR_USERNAME must be your exact GitHub login, no spaces, e.g. "uzair-dev" -->
 
 <div align="center">
 
@@ -10,9 +11,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Uzair Khan&label=Profile%20Views&color=581c87&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Uzair Khan?label=Followers&style=for-the-badge&logo=github&color=312e81" alt="Followers" />
-<a href="https://www.linkedin.com/in/Uzair khan"><img src="https://img.shields.io/badge/LinkedIn-Connect-581c87?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=uzair-khan&label=Profile%20Views&color=581c87&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=312e81" alt="Followers" />
+<a href="https://www.linkedin.com/in/uzair-khan-664399347"><img src="https://img.shields.io/badge/LinkedIn-Connect-581c87?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:uzairlohani.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-312e81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
@@ -80,25 +81,11 @@ My focus is on turning complicated product requirements into **clean, scalable, 
 
 ---
 
-## 🎬 Demo Video
+## 🧩 What I Build
 
-<!--
-  HOW TO ADD A VIDEO:
-  1. Open this README in the GitHub web editor (pencil icon).
-  2. Drag & drop your .mp4 / .mov file into the editor.
-  3. GitHub uploads it and inserts a github.com/user-attachments/assets/... link.
-  4. Paste that link on its own line below, replacing the placeholder.
--->
-
-https://github.com/user-attachments/assets/YOUR_VIDEO_ID
-
-<!-- Alternative: clickable YouTube thumbnail
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" width="720" alt="Watch the demo" />
-  </a>
+  <img src="./assets/showcase.svg" width="100%" alt="Full stack showcase — Frontend, Backend, AI/ML" />
 </p>
--->
 
 ---
 
@@ -152,7 +139,7 @@ https://github.com/user-attachments/assets/YOUR_VIDEO_ID
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
   <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
+  <a href="mailto:uzairlohani.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
   <a href="https://YOUR_PORTFOLIO_URL"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" /></a>
 </p>
 
