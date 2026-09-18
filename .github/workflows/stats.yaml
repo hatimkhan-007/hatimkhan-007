@@ -1,0 +1,178 @@
+```yaml
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout your profile repository
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      # Create profile folder
+      - name: Create profile folder
+        run: mkdir -p profile
+
+      # ==========================================
+      # 1. GITHUB STATS
+      # ==========================================
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=hatimkhan-007&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ==========================================
+      # 2. TOP LANGUAGES
+      # ==========================================
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=hatimkhan-007&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ==========================================
+      # 3. CONTRIBUTION GRAPH
+      # ==========================================
+      - name: Generate Contribution Graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - <<'PY'
+          import urllib.request
+          import json
+          import datetime
+
+          username = "hatimkhan-007"
+          token = "${GITHUB_TOKEN}"
+
+          query = """
+          query($user:String!) {
+            user(login:$user) {
+              contributionsCollection {
+                contributionCalendar {
+                  totalContributions
+                  weeks {
+                    contributionDays {
+                      contributionCount
+                      date
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+
+          data = json.dumps({
+              "query": query,
+              "variables": {"user": username}
+          }).encode()
+
+          request = urllib.request.Request(
+              "https://api.github.com/graphql",
+              data=data,
+              headers={
+                  "Authorization": f"Bearer {token}",
+                  "Content-Type": "application/json"
+              }
+          )
+
+          response = urllib.request.urlopen(request)
+          result = json.loads(response.read())
+
+          calendar = result["data"]["user"]["contributionsCollection"]["contributionCalendar"]
+
+          weeks = calendar["weeks"]
+
+          width = 900
+          height = 180
+
+          cell = 12
+          gap = 3
+          start_x = 30
+          start_y = 35
+
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg"
+              width="{width}"
+              height="{height}"
+              viewBox="0 0 {width} {height}">
+
+          <rect width="100%" height="100%" fill="#0d1117"/>
+
+          <text x="30" y="22"
+                fill="#a855f7"
+                font-family="Arial, sans-serif"
+                font-size="14"
+                font-weight="bold">
+            GitHub Contributions — {calendar["totalContributions"]} contributions
+          </text>
+          '''
+
+          for week_index, week in enumerate(weeks):
+              for day_index, day in enumerate(week["contributionDays"]):
+
+                  count = day["contributionCount"]
+
+                  if count == 0:
+                      color = "#161b22"
+                  elif count <= 2:
+                      color = "#3b0764"
+                  elif count <= 5:
+                      color = "#581c87"
+                  elif count <= 10:
+                      color = "#7e22ce"
+                  else:
+                      color = "#a855f7"
+
+                  x = start_x + week_index * (cell + gap)
+                  y = start_y + day_index * (cell + gap)
+
+                  svg += f'''
+          <rect
+              x="{x}"
+              y="{y}"
+              width="{cell}"
+              height="{cell}"
+              rx="2"
+              fill="{color}">
+              <title>{day["date"]}: {count} contributions</title>
+          </rect>
+          '''
+
+          svg += '''
+          </svg>
+          '''
+
+          with open("profile/contributions.svg", "w") as f:
+              f.write(svg)
+
+          print("Contribution graph generated successfully.")
+
+      # ==========================================
+      # COMMIT ALL SVG FILES
+      # ==========================================
+      - name: Commit generated SVG files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/*.svg
+
+          git commit -m "Update GitHub profile statistics" || exit 0
+
+          git push
+```
