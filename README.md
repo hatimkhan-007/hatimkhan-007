@@ -1,33 +1,169 @@
-## Hi there 👋
+<!-- Replace every YOUR_USERNAME / YOUR_* placeholder before publishing -->
 
-- 🔭 I’m working on **Web Development with AI integration**  
-- 🌱 I’m learning **React.js, Node.js, and AI projects**  
-- 👯 I’m open to **collaborate on web and AI projects**  
-- 💬 Ask me about **Web Development or AI basics**  
-- 📫 Reach me at **uzairlohani.dev@gmail.com**  
-- ⚡ Fun fact: **I enjoy turning ideas into real projects**
+<div align="center">
 
-  # 💫 About Me:
-Hi, I'm Uzair 👋  <br>A **BS Artificial Intelligence student** and **passionate Web Developer** who enjoys building modern and responsive web applications.<br><br>💡 Interested in **AI, Web Development, and Problem Solving**  <br>⚛️ Working with **React, JavaScript, HTML, CSS, and Tailwind**  <br>🚀 Always learning new technologies and building creative projects
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:581c87,35:312e81,70:111827,100:020617&text=Engineering%20With%20Purpose&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Engineering With Purpose banner" />
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=Full+Stack+AI+Engineer;Frontend+%C2%B7+Backend+%C2%B7+Cloud+%C2%B7+Data+%C2%B7+AI;Clean%2C+scalable%2C+secure+and+maintainable+systems;Turning+complex+requirements+into+production-ready+software" alt="Typing animation" />
+</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uzairkhan.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Uzair Khan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hatimanonymous) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Uzair Khan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uzairkhan60621@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hatimkhan-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hatimkhan-007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hatimkhan-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=Uzair Khan&label=Profile%20Views&color=581c87&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Uzair Khan?label=Followers&style=for-the-badge&logo=github&color=312e81" alt="Followers" />
+<a href="https://www.linkedin.com/in/Uzair khan"><img src="https://img.shields.io/badge/LinkedIn-Connect-581c87?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:uzairlohani.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-312e81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hatimkhan-007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hatimkhan-007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 Hi, I'm Uzair
+
+### Engineering With Purpose
+
+I design and build modern software systems across the **frontend, backend, cloud, data, and AI** layers.
+
+My focus is on turning complicated product requirements into **clean, scalable, secure, and maintainable systems** that are ready for real-world production environments.
+
+---
+
+## 🧰 Core Expertise
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>🎨 Frontend</b></td>
+    <td align="center" width="25%"><b>⚙️ Backend</b></td>
+    <td align="center" width="25%"><b>☁️ Cloud</b></td>
+    <td align="center" width="25%"><b>🤖 AI</b></td>
+  </tr>
+  <tr>
+    <td align="center">React<br/>Next.js<br/>TypeScript</td>
+    <td align="center">Python<br/>Node.js<br/>Java<br/>Go</td>
+    <td align="center">AWS<br/>Azure<br/>GCP<br/>Kubernetes</td>
+    <td align="center">LLM<br/>RAG<br/>LangChain</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts&theme=dark" alt="Frontend icons" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,nodejs,java,go&theme=dark" alt="Backend icons" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes&theme=dark" alt="Cloud icons" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,langchain&theme=dark" alt="AI icons" />
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux,postgres,redis,vscode&theme=dark" alt="Tools" />
+</p>
+
+---
+
+## 🧠 AI Engineering
+
+<p align="center">
+  <img src="./assets/ai-engineering.svg" width="100%" alt="AI Engineering — LLM Applications, RAG Systems, Vector Search, AI Automation" />
+</p>
+
+- **LLM Applications** — AI-powered products, LLM APIs, prompt engineering, intelligent automation, and AI-assisted workflows
+- **RAG Systems** — Retrieval-Augmented Generation, vector search, knowledge systems, document intelligence, and context-aware applications
+- **Machine Learning** — model development, evaluation, and deployment alongside the full application stack
+
+---
+
+## 🎬 Demo Video
+
+<!--
+  HOW TO ADD A VIDEO:
+  1. Open this README in the GitHub web editor (pencil icon).
+  2. Drag & drop your .mp4 / .mov file into the editor.
+  3. GitHub uploads it and inserts a github.com/user-attachments/assets/... link.
+  4. Paste that link on its own line below, replacing the placeholder.
+-->
+
+https://github.com/user-attachments/assets/YOUR_VIDEO_ID
+
+<!-- Alternative: clickable YouTube thumbnail
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" width="720" alt="Watch the demo" />
+  </a>
+</p>
+-->
+
+---
+
+## 🌐 Live Preview
+
+<p align="center">
+  <a href="YOUR_HTML_SCREEN_URL">
+    <img src="https://img.shields.io/badge/▶%20Open%20Live%20HTML%20Screen-A855F7?style=for-the-badge&logoColor=white" alt="Open live HTML screen" />
+  </a>
+</p>
+
+<!-- Optional: add a screenshot that links to the live page
+<p align="center">
+  <a href="YOUR_HTML_SCREEN_URL">
+    <img src="./assets/preview.png" width="720" alt="Live preview screenshot" />
+  </a>
+</p>
+-->
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [**Project One**](https://github.com/YOUR_USERNAME/PROJECT_ONE) | Short description of what it does and the problem it solves. | `Next.js` `TypeScript` `Python` |
+| [**Project Two**](https://github.com/YOUR_USERNAME/PROJECT_TWO) | Short description of what it does and the problem it solves. | `LangChain` `RAG` `Python` |
+| [**Project Three**](https://github.com/YOUR_USERNAME/PROJECT_THREE) | Short description of what it does and the problem it solves. | `Go` `Kubernetes` `AWS` |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a855f7&line=581c87&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" /></a>
+</p>
+
+---
+
+<div align="center">
+
+### Moreover, I know ML and I am now a Full Stack AI Engineer. 🚀
+
+*Open to collaboration on AI-powered products and production-grade systems.*
+
+</div>
+
+<img src="./assets/footer-wave.svg" width="100%" alt="Footer wave" />
