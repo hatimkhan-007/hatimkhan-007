@@ -111,9 +111,9 @@ My focus is on turning complicated product requirements into **clean, scalable, 
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
-| [**Project One**](https://github.com/YOUR_USERNAME/PROJECT_ONE) | Short description of what it does and the problem it solves. | `Next.js` `TypeScript` `Python` |
-| [**Project Two**](https://github.com/YOUR_USERNAME/PROJECT_TWO) | Short description of what it does and the problem it solves. | `LangChain` `RAG` `Python` |
-| [**Project Three**](https://github.com/YOUR_USERNAME/PROJECT_THREE) | Short description of what it does and the problem it solves. | `Go` `Kubernetes` `AWS` |
+| [**Project One**](https://github.com/YOUR_USERNAME/PROJECT_ONE) | --- | `Next.js` `TypeScript` `Python` |
+| [**Project Two**](https://github.com/YOUR_USERNAME/PROJECT_TWO) | --- | `LangChain` `RAG` `Python` |
+| [**Project Three**](https://github.com/YOUR_USERNAME/PROJECT_THREE) | --- | `Go` `Kubernetes` `AWS` |
 
 ---
 
