@@ -120,8 +120,16 @@ My focus is on turning complicated product requirements into **clean, scalable, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hatimkhan-007&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatimkhan-007&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" alt="Top languages" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=hatimkhan-007&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatimkhan-007&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
@@ -129,7 +137,10 @@ My focus is on turning complicated product requirements into **clean, scalable, 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hatimkhan-007&bg_color=0d1117&color=a855f7&line=581c87&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hatimkhan-007&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
