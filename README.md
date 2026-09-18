@@ -12,7 +12,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=uzair-khan&label=Profile%20Views&color=581c87&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=312e81" alt="Followers" />
+<img src="https://img.shields.io/github/followers/hatimkhan-007?label=Followers&style=for-the-badge&logo=github&color=312e81" alt="Followers" />
 <a href="https://www.linkedin.com/in/uzair-khan-664399347"><img src="https://img.shields.io/badge/LinkedIn-Connect-581c87?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:uzairlohani.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-312e81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
@@ -120,16 +120,16 @@ My focus is on turning complicated product requirements into **clean, scalable, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hatimkhan-007&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatimkhan-007&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=hatimkhan-007&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a855f7&line=581c87&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hatimkhan-007&bg_color=0d1117&color=a855f7&line=581c87&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
@@ -137,8 +137,8 @@ My focus is on turning complicated product requirements into **clean, scalable, 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/uzair-khan-664399347"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
+  <a href="https://github.com/hatimkhan-007"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
   <a href="mailto:uzairlohani.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
   <a href="https://YOUR_PORTFOLIO_URL"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" /></a>
 </p>
